@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-confessions/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Midnight Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-confessions/) |
+| **Get License** | [Get a Licensing Quote for Midnight Confessions](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-confessions/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the cabin wall
+> I'm answering the magic of your quiet call.. quiet call..
+> The embers burning low and sweet and slow
+> I just want to be wherever you want to go
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
